@@ -54,7 +54,6 @@ class _CustomDiceState extends State<CustomDice> {
 class _DicePageState extends State<DicePage> {
   @override
   Widget build(BuildContext context) {
-    int diceNumber;
     return MaterialApp(
       home: Scaffold(
         backgroundColor: Color(0xFFF821AD),
